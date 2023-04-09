@@ -33,4 +33,4 @@ def recommend():
         return render_template('response.html',result=get_movies(m))
 
 if __name__ == '__main__':
-    app.run(debug=False,host='0.0.0.0')
+    app.run(debug=False)
