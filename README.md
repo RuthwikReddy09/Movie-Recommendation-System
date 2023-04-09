@@ -8,5 +8,5 @@ or show, he/she might like a movie or a show similar to it.
 Technologies Used: Machine Learning , Natural Language Processing , Flask
 
 Deployed URL: 
-http://ruthwik09.pythonanywhere.com/
+http://ruthwik09.pythonanywhere.com/            
 https://movie-recommendation-system-uqv7.onrender.com
