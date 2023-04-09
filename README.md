@@ -7,4 +7,4 @@ or show, he/she might like a movie or a show similar to it.
 
 Technologies Used: Machine Learning , Natural Language Processing , Flask
 
-Deployed Site Link : https://movie-recommendation-system-shsx.onrender.com
+Deployed Site Link : http://ruthwik09.pythonanywhere.com/
